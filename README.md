@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# js-focus-outline
-=======
 # JS module for No focus outline
 
 ## How to us?
@@ -25,4 +22,3 @@ import focusOutline from '@denysdesign/js-focus-outline';
     });
 })();
 ```
->>>>>>> 3f8a162 (Init)
